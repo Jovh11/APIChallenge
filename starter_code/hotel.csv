@@ -1,0 +1,43 @@
+,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date,Hotel Name
+0,yellowknife,62.456,-114.3525,68.52,40,40,9.22,CA,1659314616,The Explorer Hotel
+1,balykshi,47.0667,51.8667,73.4,46,0,6.71,KZ,1659314770,River Palace Hotel
+2,mount isa,-20.7333,139.5,76.77,23,0,6.91,AU,1659314772,ibis Styles Mt Isa Verona
+3,kropotkin,45.4375,40.5756,73.26,52,0,9.1,RU,1659314773,Grand Hotel «CLASSIC»
+4,talavera de la reina,39.9635,-4.8308,83.01,26,7,6.4,ES,1659314775,Hotel Valdepalacios y Restaurante Tierra
+5,norman wells,65.282,-126.8329,73.44,46,20,10.36,CA,1659314581,Heritage Hotel
+6,tortoli,39.9256,9.6572,78.62,53,0,8.05,IT,1659314623,Club Hotel Marina Beach
+7,asyut,27.181,31.1837,84.38,41,17,8.77,EG,1659314615,Assiut Cement Hotel
+8,guerrero negro,27.9769,-114.0611,79.03,55,18,14.03,MX,1659314795,The Halfway Inn
+9,granada,37.25,-3.25,74.3,32,0,5.17,ES,1659314579,Hotel Granada Palace
+10,nikolayevskaya,47.6139,41.5023,73.09,57,0,11.54,RU,1659314795,Aelita Hotel
+11,lata,40.1629,-8.3327,70.09,56,0,3.44,PT,1659314796,Hotel Sweet Atlantic SPA
+12,campina verde,-19.5356,-49.4864,71.04,36,0,2.91,BR,1659314801,Hotel Armani
+13,turkistan,43.0,68.0,74.95,42,0,7.4,KZ,1659314802,Hampton by Hilton Turkistan
+14,bilibino,68.0546,166.4372,65.46,39,46,6.11,RU,1659314802,Profilaktoriy Baes
+15,zarand,30.8127,56.564,74.93,28,0,1.92,IR,1659314805,کمالی
+16,dusti,37.3481,68.664,77.2,31,10,2.71,TJ,1659314805,N/A
+17,olhao,37.0286,-7.8411,80.29,59,0,2.3,PT,1659314808,Dom José Beach Hotel
+18,beyneu,45.3167,55.2,79.63,41,6,8.59,KZ,1659314809,Gostinitsa Zhibek-Zholy Beyneu
+19,mata,40.683,-7.4592,73.92,46,0,1.14,PT,1659314811,Hotel VanGuarda
+20,saint-ambroise,48.5501,-71.3324,76.6,50,60,8.05,CA,1659314813,Hôtel Le Montagnais
+21,jalu,29.0331,21.5482,82.02,48,0,15.23,LY,1659314814,إستراحة صلاح الصادق
+22,la ronge,55.1001,-105.2842,71.82,49,40,9.22,CA,1659314570,The Harbour Inn
+23,tshikapa,-6.4167,20.8,73.72,35,1,1.14,CD,1659314816,Hôtel mamuding
+24,komsomolskiy,40.4272,71.7189,75.92,38,36,2.3,UZ,1659314816,Hotel Asia Fergana
+25,sarab,38.6066,44.9883,73.62,52,50,0.69,IR,1659314817,Hotel Shahryar
+26,tres lagoas,-20.7511,-51.6783,71.53,36,0,5.99,BR,1659314822,Taj Hotel
+27,vale da amoreira,39.0697,-7.6985,73.72,47,0,4.18,PT,1659314826,Lago Montargil & Villas
+28,pimenta bueno,-11.6725,-61.1936,76.23,39,0,0.43,BR,1659314828,Hotel Kanaan
+29,port hedland,-20.3167,118.5667,71.65,43,37,6.91,AU,1659314835,Hedland Hotel
+30,aklavik,68.2191,-135.0107,67.21,44,68,4.0,CA,1659314836,Aklavik Inn
+31,romans-sur-isere,45.0464,5.0562,75.97,56,0,5.48,FR,1659314837,ibis Montélimar Nord
+32,mahon,39.8885,4.2658,73.96,53,0,5.75,ES,1659314837,Meliá Cala Galdana
+33,rio verde de mato grosso,-18.9181,-54.8442,74.97,33,0,3.6,BR,1659314838,Hotel Esplanada
+34,korla,41.7597,86.1469,78.3,40,30,14.67,CN,1659314840,The Garden Hotel Korla
+35,cascais,38.6979,-9.4215,76.35,58,0,8.01,PT,1659314844,Hotel Star inn Lisbon Aeroporto
+36,wuda,39.4994,106.7117,80.37,57,19,19.77,CN,1659314846,Yixin International Hotel
+37,shu,43.5983,73.7614,74.52,39,39,2.55,KZ,1659314850,Hotel Lazzat
+38,takab,36.4009,47.1133,67.05,58,0,4.47,IR,1659314861,Ranjy Hotel
+39,kuryk,43.2,51.65,79.43,41,0,6.87,KZ,1659314864,Renaissance Aktau Hotel
+40,shubarshi,48.5872,57.1869,71.01,50,46,3.15,KZ,1659314865,Kenkiyak Khostel
+41,aragarcas,-15.8975,-52.2508,72.21,29,0,0.69,BR,1659314877,Hotel Colombo
